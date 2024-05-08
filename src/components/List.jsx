@@ -4,7 +4,6 @@ import { getData } from "@/api/tmdb";
 import Image from "next/image";
 import Link from "next/link";
 import { useEffect, useState } from "react";
-import Loader from "./Loader";
 import { Chip } from "@mui/material";
 import { FaPeopleGroup } from "react-icons/fa6";
 import { FaTrophy, FaTheaterMasks } from "react-icons/fa";
