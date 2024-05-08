@@ -4,8 +4,7 @@ const nextConfig = {
         remotePatterns: [
             {hostname: 'image.tmdb.org'},
             {hostname: 'media.themoviedb.org'}
-        ],
-        loader: 'custom'
+        ]
     }
 };
 
